@@ -22,16 +22,16 @@ body {
 
 a:hover {
   text-decoration: none;
-  color: white;
-}
-
-a { 
   color: black;
 }
 
+a { 
+  color: #ed1c24;
+}
+
 body {
-background-color: darkgrey;
-color: white;
+background-color:#755540 ;
+color:white;
 }
 
 .card-img-top {
