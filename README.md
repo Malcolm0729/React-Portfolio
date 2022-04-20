@@ -1,6 +1,6 @@
 # React-Portfolio
 
-##Built With
+## Built With
 
 My personal portfolio was built using these technologies
 -[React.js]
@@ -8,11 +8,11 @@ My personal portfolio was built using these technologies
 -[Express.js]
 -[VsCode]
 
-##Getting Started
+## Getting Started
 
 Clone down this repository. You will need Node.js and git installed globally on your computer.
 
-##Installation and Setup Instructions
+## Installation and Setup Instructions
 
 1. Installation: npm install
 2. In the project directory, you can run npm start
